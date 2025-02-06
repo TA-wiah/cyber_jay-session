@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 				   let b64data = Buffer.from(data).toString('base64');
 				   let session = await Qr_Code_By_cyber_Tech.sendMessage(Qr_Code_By_cyber_Tech.user.id, { text: '' + b64data });
 	
-				   let WASI_MD_TEXT = `
+				   let SHADOW_REAPER_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
 ┃SHADOW-REAPER-MD SESSION IS 
 ┃SUCCESSFULLY
@@ -78,7 +78,7 @@ Wanna talk to me?👉 https://t.me/billy 👈
 _____________________________________
 
 _Don't Forget To Give A ⭐Star To My Repo_`
-	 await Qr_Code_By_cyber_Tech.sendMessage(Qr_Code_By_cyber_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
+	 await Qr_Code_By_cyber_Tech.sendMessage(Qr_Code_By_cyber_Tech.user.id,{text:SHADOW_REAPER_MD_TEXT},{quoted:session})
 
 
 
