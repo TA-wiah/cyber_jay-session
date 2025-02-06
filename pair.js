@@ -75,7 +75,7 @@ Wanna talk to me?👉 https://t.me/billy 👈
 ©*2025-to-date Cyber_Jay*
 _________________________________________
 _Don't Forget To Give A ⭐Star To My Repo_`
- await Pair_Code_By_cyber_Tech.sendMessage(Pair_Code_By_cyber_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
+ await Pair_Code_By_cyber_Tech.sendMessage(Pair_Code_By_cyber_Tech.user.id,{text:SHADOW_REAPER_MD_TEXT},{quoted:session})
  
 
         await delay(100);
