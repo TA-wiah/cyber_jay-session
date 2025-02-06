@@ -73,9 +73,8 @@ Wanna talk to me?👉 https://t.me/billy 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ©*2025-to-date Cyber_Jay*
-
-_Don't Forget To Give A ⭐Star To My Repo_
-_____________________________________`
+_________________________________________
+_Don't Forget To Give A ⭐Star To My Repo_`
  await Pair_Code_By_cyber_Tech.sendMessage(Pair_Code_By_cyber_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
